@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "jobTitle": "Frontend Developer",
+        "about": "Creative coder building clean, scalable interfaces using React, CSS, and modern JavaScript frameworks.",
+        "city": "San Francisco",
+        "state": "California"
+    },
+    {
+        "id": 2,
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "jobTitle": "Product Designer",
+        "about": "UX designer focused on simplicity, user behavior, and inclusive designs that drive conversions and retention.",
+        "city": "Austin",
+        "state": "Texas"
+    },
+    {
+        "id": 3,
+        "image": "https://randomuser.me/api/portraits/men/3.jpg",
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "jobTitle": "Full Stack Engineer",
+        "about": "Experienced in Node.js and React. Builds robust backend services with secure, scalable frontend integration.",
+        "city": "Chicago",
+        "state": "Illinois"
+    },
+    {
+        "id": 4,
+        "image": "https://randomuser.me/api/portraits/women/4.jpg",
+        "name": "Lisa Ray",
+        "email": "lisa.ray@example.com",
+        "jobTitle": "QA Analyst",
+        "about": "Ensures bug-free releases with automated and manual testing strategies, focusing on performance and security.",
+        "city": "Seattle",
+        "state": "Washington"
+    },
+    {
+        "id": 5,
+        "image": "https://randomuser.me/api/portraits/men/5.jpg",
+        "name": "Tom Hardy",
+        "email": "tom.hardy@example.com",
+        "jobTitle": "DevOps Engineer",
+        "about": "Cloud-native enthusiast automating CI/CD pipelines with Kubernetes, Docker, and Terraform for seamless deployments.",
+        "city": "New York",
+        "state": "New York"
+    },
+    {
+        "id": 6,
+        "image": "https://randomuser.me/api/portraits/women/6.jpg",
+        "name": "Rachel Green",
+        "email": "rachel.green@example.com",
+        "jobTitle": "Marketing Lead",
+        "about": "Marketing strategist who crafts compelling brand stories and drives growth through user engagement and analytics.",
+        "city": "Denver",
+        "state": "Colorado"
+    },
+    {
+        "id": 7,
+        "image": "https://randomuser.me/api/portraits/men/7.jpg",
+        "name": "Mike Johnson",
+        "email": "mike.johnson@example.com",
+        "jobTitle": "Cybersecurity Specialist",
+        "about": "Defends applications from threats. Implements best practices in authentication, encryption, and vulnerability assessment.",
+        "city": "Phoenix",
+        "state": "Arizona"
+    },
+    {
+        "id": 8,
+        "image": "https://randomuser.me/api/portraits/women/8.jpg",
+        "name": "Sara Khan",
+        "email": "sara.khan@example.com",
+        "jobTitle": "AI Researcher",
+        "about": "Explores machine learning models and applies deep learning to real-world applications in health and education.",
+        "city": "Atlanta",
+        "state": "Georgia"
+    },
+    {
+        "id": 9,
+        "image": "https://randomuser.me/api/portraits/men/9.jpg",
+        "name": "Chris Evans",
+        "email": "chris.evans@example.com",
+        "jobTitle": "Mobile Developer",
+        "about": "Creates iOS and Android apps using Flutter and Swift. Focuses on performance and cross-platform experiences.",
+        "city": "Miami",
+        "state": "Florida"
+    },
+    {
+        "id": 10,
+        "image": "https://randomuser.me/api/portraits/women/50.jpg",
+        "name": "Priya Patel",
+        "email": "priya.patel@example.com",
+        "jobTitle": "HR Manager",
+        "about": "Builds strong teams and culture through strategic hiring, employee engagement, and learning initiatives.",
+        "city": "Boston",
+        "state": "Massachusetts"
+    },
+    {
+        "id": 11,
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
+        "name": "Daniel Craig",
+        "email": "daniel.craig@example.com",
+        "jobTitle": "UI Designer",
+        "about": "Designs clean, modern interfaces. Passionate about accessibility, typography, and responsive user experiences.",
+        "city": "Dallas",
+        "state": "Texas"
+    },
+    {
+        "id": 12,
+        "image": "https://randomuser.me/api/portraits/women/12.jpg",
+        "name": "Nina Dobrev",
+        "email": "nina.dobrev@example.com",
+        "jobTitle": "Technical Writer",
+        "about": "Simplifies complex tech concepts for documentation, APIs, and end users with clarity and empathy.",
+        "city": "Portland",
+        "state": "Oregon"
+    },
+    {
+        "id": 13,
+        "image": "https://randomuser.me/api/portraits/men/13.jpg",
+        "name": "Shawn Mendes",
+        "email": "shawn.mendes@example.com",
+        "jobTitle": "Music Engineer",
+        "about": "Mixes, records, and edits music. Skilled with Pro Tools and studio hardware.",
+        "city": "Nashville",
+        "state": "Tennessee"
+    },
+    {
+        "id": 14,
+        "image": "https://randomuser.me/api/portraits/women/37.jpg",
+        "name": "Mira Kapoor",
+        "email": "mira.kapoor@example.com",
+        "jobTitle": "Finance Analyst",
+        "about": "Analyzes data trends, generates insights, and optimizes financial planning and strategy.",
+        "city": "Houston",
+        "state": "Texas"
+    },
+    {
+        "id": 15,
+        "image": "https://randomuser.me/api/portraits/men/15.jpg",
+        "name": "Leo Messi",
+        "email": "leo.messi@example.com",
+        "jobTitle": "Sports Analyst",
+        "about": "Evaluates player stats and game strategies. Deep knowledge of football and data-driven sports decisions.",
+        "city": "Los Angeles",
+        "state": "California"
+    },
+    {
+        "id": 16,
+        "image": "https://randomuser.me/api/portraits/women/16.jpg",
+        "name": "Alicia Keys",
+        "email": "alicia.keys@example.com",
+        "jobTitle": "Voice Coach",
+        "about": "Trains vocal artists in pitch control, breathing, and stage presence. Works across genres and levels.",
+        "city": "Philadelphia",
+        "state": "Pennsylvania"
+    },
+    {
+        "id": 17,
+        "image": "https://randomuser.me/api/portraits/men/17.jpg",
+        "name": "Neil Armstrong",
+        "email": "neil.armstrong@example.com",
+        "jobTitle": "Aerospace Engineer",
+        "about": "Designs spacecraft components and simulates missions for NASA and commercial space ventures.",
+        "city": "Orlando",
+        "state": "Florida"
+    },
+    {
+        "id": 18,
+        "image": "https://randomuser.me/api/portraits/women/18.jpg",
+        "name": "Emma Watson",
+        "email": "emma.watson@example.com",
+        "jobTitle": "Sustainability Advocate",
+        "about": "Campaigns for ethical practices, green energy, and reducing waste in global industries.",
+        "city": "San Diego",
+        "state": "California"
+    },
+    {
+        "id": 19,
+        "image": "https://randomuser.me/api/portraits/men/19.jpg",
+        "name": "David Beckham",
+        "email": "david.beckham@example.com",
+        "jobTitle": "Fitness Consultant",
+        "about": "Helps clients achieve peak fitness using custom routines, diets, and lifestyle optimization.",
+        "city": "Columbus",
+        "state": "Ohio"
+    },
+    {
+        "id": 20,
+        "image": "https://randomuser.me/api/portraits/women/20.jpg",
+        "name": "Angela White",
+        "email": "angela.white@example.com",
+        "jobTitle": "Content Strategist",
+        "about": "Creates high-converting content plans for blogs, SEO, and marketing funnels. Expert in storytelling.",
+        "city": "Charlotte",
+        "state": "North Carolina"
+    }
+]
